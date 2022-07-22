@@ -1,0 +1,55 @@
+ .u-section-1 {
+  background-image: url("images/DeoxyAbout_texasArt.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 552px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 455px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 349px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 262px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 165px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 292px;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: Inter;
+  font-size: 2.25rem;
+  font-weight: 600;
+  margin: 29px auto 0 29px;
+}
+
+.u-section-2 .u-text-2 {
+  font-family: Inter;
+  font-size: 1.875rem;
+  font-weight: 500;
+  line-height: 1.2;
+  margin: 16px auto 60px 29px;
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    font-size: 1.875rem;
+  }
+}
